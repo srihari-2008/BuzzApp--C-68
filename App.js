@@ -10,7 +10,7 @@ export default function App() {
   render(); {
   return (
     <View style={styles.container}>
-      
+      <Appcontainer />
     </View>
   ) 
   }
